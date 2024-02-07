@@ -1,4 +1,4 @@
-# pdftoword
+# Conversor de PDF para word
 Conversao de Arquivo PDF em Word com PHP
 Requisitos
 Adicionar a extensao no php.ini windows 
